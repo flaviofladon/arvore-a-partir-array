@@ -16,11 +16,6 @@ focada em clareza, separação de responsabilidades e preparo para entrevistas t
 - Galho esquerdo: valores à esquerda da raiz (ordem decrescente)
 - Galho direito: valores à direita da raiz (ordem decrescente)
 
-## Complexidade
-
-- Tempo: O(n log n)
-- Espaço: O(n)
-
 ## Execução
 
 https://dotnetfiddle.net/jY6p1n
