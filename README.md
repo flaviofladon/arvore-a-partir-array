@@ -1,7 +1,6 @@
 # Construção de Árvore a partir de Array (C#)
 
 Solução em C# organizada em camadas (Domain, Application, Infrastructure),
-focada em clareza, separação de responsabilidades e preparo para entrevistas técnicas.
 
 ## Arquitetura
 
