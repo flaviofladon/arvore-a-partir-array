@@ -23,5 +23,7 @@ focada em clareza, separação de responsabilidades e preparo para entrevistas t
 
 ## Execução
 
+https://dotnetfiddle.net/jY6p1n
+
 ```bash
 dotnet run
